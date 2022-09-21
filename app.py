@@ -7,7 +7,7 @@ df = pd.read_csv('world_population.csv')
 #Nesta linha, definimos que a variavel df1 receberá o Dataframe da linha 0 até a linha 100
 df1 = df.iloc[0:100]
 #Neste linha, definimos que a variavel df2 receberá o Dataframe da linha 101 até a última linha
-df2 = df.iloc[101:]
+df2 = df.iloc[100:]
 
 #Podemos ver que a divisão foi feita printando o len() de cada variavel
 print(len(df))
