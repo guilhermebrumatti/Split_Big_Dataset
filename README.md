@@ -10,6 +10,6 @@ cada arquivo.
 Neste código, peguei uma tabela com 234 linhas e dividi em duas partes, a primeira com 100 linhas
 e a segunda com o restante
 
-<img src='https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/Screenshot_3.jpg' />
+<img src='https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/split_big_database_print1.jpg?raw=true' />
 
 
