@@ -1,8 +1,8 @@
 Dividir Grandes Databases.
 
-Esta é uma simples, porém eficaz solução para dividir uma base de dados grande.
-Em um cenário que existe uma base de dados .csv muito grande, é possível dividir essa base
-em quantas partes forem necessárias.
+Esta é uma simples, porém eficaz solução para dividir uma base de dados grande.<br>
+Em um cenário que existe uma base de dados muito grande, é possível dividi-la em <br>
+quantas partes forem necessárias.
 
 Com o pandas, usei a propriedade iloc[], onde você consegue definir o tamanho em linhas, de
 cada arquivo.
