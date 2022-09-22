@@ -11,5 +11,6 @@ Neste código, peguei uma tabela com 234 linhas e dividi em duas partes, a prime
 e a segunda com o restante
 
 <img src='https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/split_bit_databases_print1.jpg' />
-
-
+<br>
+Requisitos:<br>
+pip install pandas
